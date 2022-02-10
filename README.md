@@ -1,7 +1,8 @@
 # COTS
-MC drivers
+- This repository contains atmega32 and stm32f103c8t6 microcontrollers drivers based on layered architecture 
+- Hardware peripherals and some external hardware interfaces that will be useful to learn embedded system c applications
 
-## drivers
-iguilgik
-hhhhhhhh
-3333333
+
+## Folders
+- AVR system
+- ARM system
